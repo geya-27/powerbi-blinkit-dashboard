@@ -1,1 +1,1 @@
-# powerbi-blinkit-dashboard
+# Blinkit-PowerBi-Dashboard
